@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<link href="mystyle.css" rel="stylesheet" type="text/css"/>
+  <meta charset="UTF-8">
+  </head>
+  <body>
+   <div id="counteiner">
+        <div id="top">TOP</div>  
+	    <div id="left_bar">LEFT</div>
+        <div id="main">CENTER</div>
+        <div id="right_bar">RIGHT</div> 	
+		<div id="clear"></div>
+	    <div id="footer_bar">FOOTER</div>
+   </div>
+
+
+  </body>
+  
+      
+  </body>
+  </html>

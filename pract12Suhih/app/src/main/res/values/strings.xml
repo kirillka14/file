@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pract12Suhih</string>
+    <string name="Choice">Выберите</string>
+    <string name="Input">Ввод данных</string>
+    <string name="Output">Вывод данных</string>
+    <string name="Days">День</string>
+    <string name="Time">Время</string>
+    <string name="Category">Категория</string>
+    <string name="Summa">Сумма</string>
+    <string name="Save">Сохранить</string>
+</resources>

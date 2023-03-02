@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665823536 source:c:\users\307-05\desktop\pointersuhih\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<string.h>
+

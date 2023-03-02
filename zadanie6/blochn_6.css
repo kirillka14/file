@@ -1,0 +1,41 @@
+*{
+	margin:0;
+	padding:0;
+	font-size:18pt;
+}
+body{
+	padding:0;
+}
+#conteiner{
+	width:75%;
+	margin:0 auto;
+}
+#top{
+	width:100%;
+	height:140px;
+	background:#87CEEB;
+}
+#left_bar{
+	width:20%;
+	height:350px;
+	background:#98FB98;
+	float:left;
+}
+#main{
+    width:55%;
+	height:350px;
+	background:#FFB6C1;
+	float:left;
+}
+#right_bar{
+	width:25%;
+	height:350px;
+	background:#98FB98;
+	float:right;
+}
+#footer{
+	width:100%;
+	height:75px;
+	background:#FFA07A;
+	clear:both;
+}

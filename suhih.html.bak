@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>laba1</title>
+		 <base target="_home">
+	</head>
+	<body bgcolor="#87CEEB">
+	<center>
+	<h1>
+	    <b>
+		Сухих Кирилл Андреевич
+		</b>
+	</h1>
+	    
+			<p>Ученик группы ПР-32</p>
+			<p>18 лет</p>
+			<p>это мой сайт</p>
+		
+		<a href="https://vk.com/sbdbdbdbdbdbdbdbdbdbdbdbdbdbdbds"><img src=" pepe.png"></a>
+		 <p><a href="suhih2.html" target="_home">Рассписание -></a></p>
+	</center>
+	
+	</body>
+</html>

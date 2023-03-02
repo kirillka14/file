@@ -1,0 +1,26 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Бегущая строка</title>
+</head>
+<body>
+<table border="1">
+<caption>Заголовок</caption>
+<tr>
+<td>Ячейка 1</td>
+<td>Ячейка 2</td>
+<td>Ячейка 3</td>
+</tr>
+<tr>
+<td>Ячейка 4</td>
+<td colspan="2">Объединенные ячейки 5 и 8</td>
+<td>Ячейка 6</td>
+</tr>
+<tr>
+<td>Ячейка 7</td>
+<td>Ячейка 9</td>
+</tr>
+</table>
+
+</body>
+</html>

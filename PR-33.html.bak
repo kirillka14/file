@@ -1,0 +1,392 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>laba1</title>
+		 <base target="_blank">
+	</head>
+	<body>
+	       <table border="5">
+					<tr>
+						<td rowspan="2"></td>
+						<th colspan="3"><font size="6">ПР-33</font></th>					
+					</tr>
+					<tr>
+						<td colspan="3"><b>Кл. рук. Дудель Елена Викторовна</b></td>
+					</tr>
+					<tr>
+						<td><b>урок</b></td>
+						<td><b>предмет</b></td>
+						<td><b>препод.</b></td>
+						<td><b>ауд.</b></td>
+					</tr>
+
+					<tr>
+						<td>1</td>
+						<td>ТРПО</td>
+						<td>Бушуева Е.В.</td>
+						<td>328</td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td>/ТРПО</td>
+						<td>Бушуева Е.В.</td>
+						<td>328</td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td>\Внедрнение и под.</td>
+						<td>Бушуева Е.В.</td>
+						<td>328</td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td>Внедрнение и под.</td>
+						<td>Бушуева Е.В.</td>
+						<td>328</td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+						<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>5</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					</tr>
+						<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+
+					<tr>
+						<td>1</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td>Физкультура</td>
+						<td>Клепинин В.М.</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td>ИС РПО</td>
+						<td>Михайлов В.А.</td>
+						<td>310</td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td>ИС РПО</td>
+						<td>Михайлов В.А.</td>
+						<td>310</td>
+					</tr>
+						<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>5</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+
+					<tr>
+						<td>1</td>
+						<td>Правовое обеспечение</td>
+						<td>Бессонова О.П.</td>
+						<td>302</td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td>Ин. яз. в ПД</td>
+						<td>Дудель Е.В.</td>
+						<td>315</td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td>Основы философии</td>
+						<td>Лейба М.Г.</td>
+						<td>210</td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td>Комп. сети</td>
+						<td>Овчинникова С.И.</td>
+						<td>322</td>
+					</tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>5</td>
+						<td>Классный час</td>
+						<td>Дудель Е.В.</td>
+						<td>315</td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+
+					<tr>
+						<td>1</td>
+						<td>Системное прогр.</td>
+						<td>Михайлов. В.А.</td>
+						<td>310</td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td>ИС РПО</td>
+						<td>Михайлов. В.А.</td>
+						<td>310</td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>5</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+
+						<tr>
+						<td>1</td>
+						<td>ТРПО</td>
+						<td>Бушуева Е.В.</td>
+						<td>328</td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td>ТРПО</td>
+						<td>Бушуева Е.В.</td>
+						<td>328</td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+						<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>5</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+
+					<tr>
+						<td height="22">1</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td height="22">2</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+						<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>5</td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+					</tr>
+						<tr>
+						<td height="22"> </td>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+
+				</table>
+			
+			</body>
+	</html>

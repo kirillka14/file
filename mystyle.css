@@ -1,0 +1,32 @@
+    *{
+    margin:0;
+	padding:0;
+	border:0;
+  }
+  body{
+  font-family:"Arial",Courier,monospace;
+  color:#000000;
+  padding:0;
+  background:#FFFFFF;
+  }
+  #conteiner{
+  width:900px;
+  margin:0 auto;
+  border:2px #000 solid;
+  }
+#top
+{
+width:900px;
+height:140px;
+background:#FF0000;
+text-align: center;	
+}
+#left_bar{
+	background;:#009900;
+	width:160px;
+	height:350px;
+	float:left;
+}
+#main{
+	position:
+}

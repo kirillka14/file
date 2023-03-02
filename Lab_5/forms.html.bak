@@ -1,0 +1,102 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  </head>
+  <body>
+  <table>
+<tr>
+	  <td align="left">
+	
+	     Проекты таунхаусов и блокированных домов
+	  </td>
+	  <td align="left">
+	      <input type="checkbox" name="blok" value="blok"/>
+      </td>
+</tr>
+<tr>
+     <td align="left"> 
+         Проекты домов на две семьи
+     </td>
+	 <td align="left">
+ 	   <input type="checkbox" name="twoFamily" value="twoFamily"/>
+	 </td>
+</tr>
+<tr>
+     <td align="left">
+      Проекты узких домов
+     </td>
+     <td align="left">
+      <input type="checkbox" name="yzkie" value="yzkie"/>
+     </td>
+</tr>
+<tr>
+     <td align="left">
+       Проекты бань
+     </td>	   
+     <td align="left">
+	   <input type="checkbox" name="banya" value="banya"/>
+	 </td>
+</tr>	 
+<tr>
+  <td align="left">
+      Проекты кирпичных домов
+  </td>
+  <td align="left">
+      <input type="checkbox" name="kirpich" value="kirpich"/>	
+  </td>
+</tr>
+<tr>
+  <td align="left">
+	Проекты домов из газобетона и пенобетона
+	</td>
+	<td align="left">
+	   <input type="checkbox" name="gazo_peno" value="gazo_peno"/>
+	</td>
+</tr>
+<tr>
+  <td align="left">
+    Проекты домов из бруса и бревна
+  </td>
+  <td align="left">
+      <input type="checkbox" name="brus_brevno" value="brus_brevno"/>
+  </td>
+</tr>
+<tr>
+  <td align="left">
+	Проекты каркасных домов
+	</td>
+	<td align="left">
+	  <input type="checkbox" name="karkas" value="karkas"/>
+	</td>
+</tr>
+</table>
+<table>
+<tr>
+  <td align="left">
+  до 18
+  </td>
+  <td align="left">
+  <input type="radio" name="modem" value="18" checked /> 
+  </td>
+ </tr>
+ <tr>
+  <td align="left">
+   18-50   
+ </td>
+ <td align="left">
+ <input type="radio" name="modem" value="18-50" />
+ </td>
+ </tr>
+ <tr>
+   <td align="left">
+   Старше 50   
+   </td>
+    <td align="left">
+	<input type="radio" name="modem" value="50" /> 
+ </tr>
+</td>
+</table>
+  <input type="submit" value="Отправить" />
+  </body>
+</html>

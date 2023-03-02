@@ -1,0 +1,19 @@
+﻿  Source.c
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(29,11): warning C4022: ReadFile: несоответствие указателя для фактического параметра 1
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(31,15): warning C4022: CloseHandle: несоответствие указателя для фактического параметра 1
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(49,21): warning C4047: ==: "HFILE" отличается по уровням косвенного обращения от "void *"
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(55,12): warning C4022: WriteFile: несоответствие указателя для фактического параметра 1
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(56,14): warning C4022: CloseHandle: несоответствие указателя для фактического параметра 1
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(65,11): warning C4022: ReadFile: несоответствие указателя для фактического параметра 1
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(68,21): warning C4047: ==: "HFILE" отличается по уровням косвенного обращения от "void *"
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(73,12): warning C4022: WriteFile: несоответствие указателя для фактического параметра 1
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(74,14): warning C4022: CloseHandle: несоответствие указателя для фактического параметра 1
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(75,14): warning C4022: CloseHandle: несоответствие указателя для фактического параметра 1
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(97,39): warning C4047: функция: "UINT" отличается по уровням косвенного обращения от "void *"
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(97,35): warning C4024: OpenFile: различные типы для формального и фактического параметров 3
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(100,40): warning C4022: GetFileInformationByHandleEx: несоответствие указателя для фактического параметра 1
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(110,40): warning C4047: функция: "UINT" отличается по уровням косвенного обращения от "void *"
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(110,36): warning C4024: OpenFile: различные типы для формального и фактического параметров 3
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(113,14): warning C4022: GetFileTime: несоответствие указателя для фактического параметра 1
+C:\Users\307-05\Documents\Suhih\Project2\Source.c(119,14): warning C4022: CloseHandle: несоответствие указателя для фактического параметра 1
+  Project2.vcxproj -> C:\Users\307-05\Documents\Suhih\Project2\x64\Debug\Project2.exe

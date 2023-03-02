@@ -1,0 +1,124 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+<table border="1">
+<caption>Заголовок</caption>
+<tr>
+<td rowspan="2" >№ пары</td>
+<td colspan="6" bgcolor="#ff33ff" align="center"> Нечетная неделя</td>
+<td colspan="6" bgcolor="#99ffff" align="center"> Четная неделя</td>
+</tr>
+<td>Понедельник</td>
+<td>Вторник</td>
+<td>Среда</td>
+<td>Четверг</td>
+<td>Пятница</td>
+<td>Суббота</td>
+<td>Понедельник</td>
+<td>Вторник</td>
+<td>Среда</td>
+<td>Четверг</td>
+<td>Пятница</td>
+<td>Суббота</td>
+<tr>
+<td align="right">1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="12" align="center"><marquee direction="left" behavior="scroll" loop="5" bgcolor="#ffffcc">В рассписании возможны изменения</marquee></td>
+</tr>
+
+</table>
+
+</body>
+</html>

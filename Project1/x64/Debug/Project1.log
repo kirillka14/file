@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\307-05\Documents\Suhih\Project1\Source.c(5,1): error C2008: ;: не требуется в макроопределении
+C:\Users\307-05\Documents\Suhih\Project1\Source.c(8,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\307-05\Documents\Suhih\Project1\Source.c(9,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\307-05\Documents\Suhih\Project1\Source.c(14,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных

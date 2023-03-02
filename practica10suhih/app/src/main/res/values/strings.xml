@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">practica10suhih</string>
+    <string name="Vvod">Введите фигуру</string>
+    <string name="s">Посчитать</string>
+    <string name="storonaа">Введите длину стороны а</string>
+    <string name="storonab">Введите длину стороны б</string>
+    <string name="Diametr">Введите диаметр окружности</string>
+    <string name="pk">периметр квадрата равен</string>
+    <string name="pp">периметр прямоугольника равен</string>
+    <string name="pkr">периметр круга равен</string>
+</resources>

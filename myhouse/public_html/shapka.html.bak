@@ -1,0 +1,11 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Бегущая строка</title>
+</head>
+<body bgcolor="#33ccff">
+<marquee bgcolor="#66ffff" behavior="alternative" scrollamount="5" text-decoration="#3333ff">
+ Каталог готовых архитектурных проектов коттеджей
+  </marquee>
+</body>
+</html>

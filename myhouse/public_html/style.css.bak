@@ -1,0 +1,18 @@
+h1.main{color:navy;font-family:Verdana;text-align:left;font-size:14pt}
+h1.golub{color:blue;font-family:Verdana;text-align:left;font-size:14pt}
+h1.krasn{color:red;font-family:Verdana;text-align:left;font-size:14pt}
+h1.zelen{color:green;font-family:Verdana;text-align:left;font-size:14pt}
+h1.oranzhev{color:orange;font-family:Verdana;text-align:left;font-size:14pt}
+h2.main{color:navy;font-family:Verdana;text-align:left;font-size:10pt}
+h2.golub{color:blue;font-family:Verdana;text-align:left;font-size:10pt}
+h2.krasn{color:red;font-family:Verdana;text-align:left;font-size:10pt}
+h2.zelen{color:green;font-family:Verdana;text-align:left;font-size:10pt}
+h2.oranzhev{color:orange;font-family:Verdana;text-align:left;font-size:10pt}
+h2.color {text-align:right;color:#800000;font-family:Verdana;font-size:16pt}
+p{text-align:justify;color:#191970;font-family:Arial;font-size:12pt}
+h3 {text-align:left;color:#0000ff;font-family:Verdana}
+ol.he {color:brown;font-family:Verdana}
+ul.he{list-style-image:url(spisok_1.gif)  ;color:brown;font-family:Verdana}
+html{background-image:url(fon9.jpg)}
+#brow{color:#996633;font-family:Times}
+#brow_2{color:#cc6600;font-family:Times}

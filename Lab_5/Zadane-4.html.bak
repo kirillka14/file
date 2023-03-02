@@ -1,0 +1,11 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  </head>
+  <body>
+  <input type="radio" name="modem" value="9600" checked /> 9600 бит/с
+<input type="radio" name="modem" value="14400" /> 14400 бит/с
+<input type="radio" name="modem" value="28800" /> 28800 >бит/с
+  </body>
+  </html>
